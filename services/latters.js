@@ -2,7 +2,7 @@ const axios = require ('axios')
 
 class LattersService {
     constructor(){
-        this.url = 'https://raw.githubusercontent.com/financas360/provas/master/klingon-textoA.txt'
+        this.url = 'https://raw.githubusercontent.com/financas360/provas/master/klingon-textoB.txt'
     }
     getLatters(){
         try{
